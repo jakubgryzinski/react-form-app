@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 
-## Live Demo - [react-form-app-exercise.netlify.app](https://react-form-app-exercise.netlify.app/)
+ <!--  ## Live Demo - [react-form-app-exercise.netlify.app](https://react-form-app-exercise.netlify.app/)  -->
 
 
  ## Preview ##
